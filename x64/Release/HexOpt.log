@@ -1,0 +1,27 @@
+﻿  optimizer.cpp
+D:\C++Code\HexOpt\HexOpt\optimizer.cpp(37,27): warning C4477: “sscanf”: 格式字符串“%zu”需要类型“unsigned __int64 *”的参数，但可变参数 1 拥有了类型“int *”
+D:\C++Code\HexOpt\HexOpt\optimizer.cpp(37,27): warning C4477: “sscanf”: 格式字符串“%zu”需要类型“unsigned __int64 *”的参数，但可变参数 2 拥有了类型“int *”
+D:\C++Code\HexOpt\HexOpt\optimizer.cpp(37,27): warning C4477: “sscanf”: 格式字符串“%zu”需要类型“unsigned __int64 *”的参数，但可变参数 3 拥有了类型“int *”
+D:\C++Code\HexOpt\HexOpt\optimizer.cpp(142,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\C++Code\HexOpt\HexOpt\optimizer.cpp(27,22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++Code\HexOpt\HexOpt\optimizer.cpp(31,53): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++Code\HexOpt\HexOpt\optimizer.cpp(33,51): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++Code\HexOpt\HexOpt\optimizer.cpp(37,14): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++Code\HexOpt\HexOpt\optimizer.cpp(39,12): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++Code\HexOpt\HexOpt\optimizer.cpp(60,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++Code\HexOpt\HexOpt\optimizer.cpp(63,48): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++Code\HexOpt\HexOpt\optimizer.cpp(66,13): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++Code\HexOpt\HexOpt\optimizer.cpp(69,52): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++Code\HexOpt\HexOpt\optimizer.cpp(74,17): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++Code\HexOpt\HexOpt\optimizer.cpp(91,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++Code\HexOpt\HexOpt\optimizer.cpp(93,51): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++Code\HexOpt\HexOpt\optimizer.cpp(96,51): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++Code\HexOpt\HexOpt\optimizer.cpp(105,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++Code\HexOpt\HexOpt\optimizer.cpp(109,16): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++Code\HexOpt\HexOpt\optimizer.cpp(216,28): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码
+  9 of 944 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  HexOpt.vcxproj -> D:\C++Code\HexOpt\x64\Release\HexOpt.exe
